@@ -31,4 +31,5 @@ for (sort keys %cats) {
     say $_;
     say '---';
     say $cats{$_};
+    say '';
 }
